@@ -1,3 +1,6 @@
+[blame google-translate.. 🏴‍☠️]  
+
+
 # OSINT für Netstalking
 
 Verwendung von [OSINT](https://ru.wikipedia.org/wiki/OSINT) Techniken und Tricks für Netstalking:
